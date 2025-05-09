@@ -9,9 +9,13 @@ Price scraping
 
 ## Description
 Price scraping
+Accordance with robots.txt policies
 
 ## Use
-_Insert directions for how to use your project and any command line dependencies and arguments_
+This program scrapes product names and prices from MaxGaming News and writes the results to a .txt file.
+Change the filePath in the code to a valid location on your machine.
+java -cp .;jsoup-x.x.x.jar brokenWings.runicBlade (Eclipse)
+Output will be saved to the specified .txt file in the format: Product Name -> Price
 
 ## Sources
 [Video](https://www.youtube.com/watch?v=tI1qGwhn_bs)
@@ -34,4 +38,4 @@ _To mark a box as complete enter an X in between the brackets. See the first che
 - [ ] Works Cited
 
 ## Writeup
-_Copy Paste your write up here, just because it makes it look neat_
+This project is a Java-based web scraper that extracts product names and prices from the MaxGaming News page. Using the JSoup library, it connects to the site, parses the HTML content, and collects relevant data. The program automatically loops through all available pages until no more product listings are found. Each product's title and price are written to a .txt file for easy access. The code can be easily modified to fit most websites with similar HTML structures.
