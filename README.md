@@ -8,14 +8,13 @@ Nathan Chau Julian Falcon
 Price scraping
 
 ## Description
-Price scraping
 Accordance with robots.txt policies
 
 ## Use
-This program scrapes product names and prices from MaxGaming News and writes the results to a .txt file.
-Change the filePath in the code to a valid location on your machine.
-java -cp .;jsoup-x.x.x.jar brokenWings.runicBlade (Eclipse)
-Output will be saved to the specified .txt file in the format: Product Name -> Price
+- This program scrapes product names and prices from MaxGaming News and writes the results to a .txt file.
+- Change the filePath in the code to a valid location on your machine.
+- java -cp .;jsoup-x.x.x.jar brokenWings.runicBlade (Eclipse)
+- Output will be saved to the specified .txt file in the format: Product Name -> Price
 
 ## Sources
 [Video](https://www.youtube.com/watch?v=tI1qGwhn_bs)
