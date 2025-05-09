@@ -2,19 +2,19 @@
 _Keep track of this ReadME file as you go. Delete this line when ready_ 
 # Insert Project Name
 ### 2025 CLHS Cybersecurity
-_Insert Student Names_
+Nathan Chau Julian Falcon
 
 ## WebScraping and Web Cracking
-_define web scraping and web cracking here_
+Price scraping
 
 ## Description
-_Insert project description Here_
+Price scraping
 
 ## Use
 _Insert directions for how to use your project and any command line dependencies and arguments_
 
 ## Sources
-_Insert and sources used for research here_
+[Video](https://www.youtube.com/watch?v=tI1qGwhn_bs)
 
 ## Requirement Checklist
 _Feel free to add any checklist items below to best communicate with your group_
